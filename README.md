@@ -1,8 +1,10 @@
 💼 Personal Finance Visualizer – Power BI Dashboard
+<img width="1223" height="684" alt="Screenshot 2025-07-28 191713" src="https://github.com/user-attachments/assets/1ef133c8-f129-4f48-8499-334c5a09df2d" />
 
 🔍 Overview
 
 The Personal Finance Visualizer is an interactive dashboard built using Power BI to help individuals track, analyze, and understand their financial behavior over time. It visually summarizes key financial indicators such as income, expenses, and savings—enabling data-driven personal finance decisions.
+
 
 This dashboard is designed to make financial data more accessible and actionable, offering clear insights through intuitive charts and metrics. With interactive filters, time-based comparisons, and smart categorization, users can effectively manage their budgets and financial goals.
 
